@@ -1,4 +1,4 @@
-package com.hakancivelek.javaRestfulProject;
+package com.hakancivelek.javaRestfulProject.selamServlet;
 
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;

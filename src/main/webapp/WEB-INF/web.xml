@@ -6,10 +6,19 @@
 
     <servlet>
         <servlet-name>SelamServletWithoutAnnotation</servlet-name>
-        <servlet-class>com.hakancivelek.javaRestfulProject.SelamServletWithoutAnnotation</servlet-class>
+        <servlet-class>com.hakancivelek.javaRestfulProject.selamServlet.SelamServletWithoutAnnotation</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>SelamServletWithoutAnnotation</servlet-name>
         <url-pattern>/SelamWithoutAnnotation</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>PrintDateAndTimeWithoutAnnotation</servlet-name>
+        <servlet-class>com.hakancivelek.javaRestfulProject.printDateAndTime.PrintDateAndTimeWithoutAnnotation</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>PrintDateAndTimeWithoutAnnotation</servlet-name>
+        <url-pattern>/PrintDateAndTimeWithoutAnnotation</url-pattern>
     </servlet-mapping>
 </web-app>

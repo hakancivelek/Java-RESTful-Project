@@ -11,5 +11,9 @@
 <a href="SelamWithAnnotation">Selam Servlet with annotation</a>
 <br/><br/>
 <a href="SelamWithoutAnnotation">Selam Servlet without annotation</a>
+<br/><br/>
+<a href="PrintDateAndTimeWithAnnotation">Print date and time with annotation</a>
+<br/><br/>
+<a href="PrintDateAndTimeWithoutAnnotation">Print date and time without annotation</a>
 </body>
 </html>
