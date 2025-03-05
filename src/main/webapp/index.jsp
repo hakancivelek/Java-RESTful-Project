@@ -2,12 +2,14 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>JSP - Hello World</title>
+    <title>JSP - Selam!</title>
 </head>
 <body>
 <h1><%= "Selam Java EE!" %>
 </h1>
 <br/>
-<a href="selam-servlet">Hello Servlet</a>
+<a href="SelamWithAnnotation">Selam Servlet with annotation</a>
+<br/><br/>
+<a href="SelamWithoutAnnotation">Selam Servlet without annotation</a>
 </body>
 </html>
